@@ -1,0 +1,19 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 4,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "storage.type.class.doxygen",
+                "settings": {
+                    "foreground": "#6272A4"
+                }
+            }
+        ]
+    },
+    "explorer.compactFolders": false,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.fontFamily": "Fira Code"
+}
