@@ -9,6 +9,12 @@
                 "settings": {
                     "foreground": "#6272A4"
                 }
+            },
+            {
+                "scope": "comment",
+                "settings": {
+                    "fontStyle": ""
+                }
             }
         ]
     },
