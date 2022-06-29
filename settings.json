@@ -11,7 +11,14 @@
                 }
             },
             {
-                "scope": "comment",
+                "scope": [
+                    "comment",
+                    "comment.block",
+                    "comment.block.documentation",
+                    "comment.line",
+                    "comment.line.double-slash",
+                    "punctuation.definition.comment"
+                ],
                 "settings": {
                     "fontStyle": ""
                 }
@@ -24,5 +31,6 @@
     "terminal.integrated.fontFamily": "Fira Code",
     "window.titleBarStyle": "custom",
     "workbench.sideBar.location": "right",
-    "workbench.colorTheme": "Gruvbox Dark Medium"
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "window.zoomLevel": 1
 }
